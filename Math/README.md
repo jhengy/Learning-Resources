@@ -2,6 +2,9 @@
 
 A curated list of awesome mathematics resources.
 
+# Curated List of Books on Various Math fields
+- https://mathblog.com/mathematics-books/
+
 # Contents
 
 <!-- START_TOC -->

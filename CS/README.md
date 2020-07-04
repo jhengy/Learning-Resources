@@ -50,6 +50,7 @@ Thank you for your support!
   - [R](https://github.com/jhengy/Learning-Resources/tree/master/CS/db/r.md)
   - [Julia](https://github.com/jhengy/Learning-Resources/tree/master/CS/db/julia.md)
   - [Elixir](https://github.com/jhengy/Learning-Resources/tree/master/CS/db/elixir.md)
+  - [prolog](https://github.com/jhengy/Learning-Resources/tree/master/CS/db/prolog.md)
 - Artificial Intelligence
   - [Machine Learning](https://github.com/jhengy/Learning-Resources/tree/master/CS/db/machine_learning.md)
   - [Artificial Neural Networks](https://github.com/jhengy/Learning-Resources/tree/master/CS/db/artificial_neural_network.md)

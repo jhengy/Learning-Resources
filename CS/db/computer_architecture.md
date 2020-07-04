@@ -3,7 +3,8 @@
 ---------------------------------------
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
-
+- [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) I](https://www.coursera.org/learn/build-a-computer)
+- [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) II](https://www.coursera.org/learn/nand2tetris2)
 - [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 - [CIS 501](https://www.cis.upenn.edu/~milom/cis501-Fall11/)
 - [CS 429: Spring, 2020](https://www.cs.utexas.edu/~byoung/cs429/syllabus429.html)
